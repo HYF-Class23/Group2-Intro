@@ -1,11 +1,11 @@
-![my photo](![Alt text](IMG_7295.jpg)
-
 # Introduction
 
 Hello everyone 👋, I am Pallavi. I am basically from India but now residing in
 Belgium since 2020. I completed my masters in Mathematics and bachelor of
 education from Pune University. I have experience in teaching. I speak 4
 languages: English, Marathi, Hindi and French(basic).
+
+![my photo](./img/IMG_7295.jpg)
 
 ## Hobbies
 
