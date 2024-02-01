@@ -1,4 +1,4 @@
-![my photo](![Alt text](IMG_7295.jpg))
+![my photo](![Alt text](IMG_7295.jpg)
 
 # Introduction
 
